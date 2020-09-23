@@ -46,7 +46,6 @@ class CSTranslatorTest {
         String input = readInput(i);
         String output = readOutput(i);
         
-        System.out.println("Initial table is: " + translationTemporaryStorage); 
         String response = "";
         if(translationTemporaryStorage.containsKey(input)){
             response = translationTemporaryStorage.get(input);
