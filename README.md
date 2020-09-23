@@ -14,7 +14,7 @@ Muchas veces nos vemos en la necesidad de traducir palabras de un lenguaje a otr
 ### Requerimientos
 #### Requerimientos Funcionales
 - Como usuario podré ingresar a la aplicación sin necesidad de estar registrado.
-- Como usuario podré ingresar una frase o texto cu.
+- Como usuario podré ingresar una frase o texto a ser traducido.
 
 #### Requerimientos No Funcionales
 - La longitud máxima de caracteres de una frase será de 500 caracteres.
